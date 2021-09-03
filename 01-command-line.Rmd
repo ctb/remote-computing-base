@@ -1,5 +1,7 @@
 # Introduction to the UNIX Command Line
 
+Hello, world!
+
 This two hour workshop will introduce attendees to the UNIX command
 line, which is the main way to interact with remote computers. We will
 cover computing concepts, file systems and directory structure, and
